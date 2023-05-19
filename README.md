@@ -1,4 +1,3 @@
-[Deploy](https://lkotlarenko.github.io/Project-To-Do-List/)
 # Skills
 
 - Manipulate CSS
